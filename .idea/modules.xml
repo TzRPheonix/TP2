@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../ynov-architecture-logicielle-m1/micro-ynov-demo/loans-service/loans-service.iml" filepath="$PROJECT_DIR$/../../../ynov-architecture-logicielle-m1/micro-ynov-demo/loans-service/loans-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/micro-archi.iml" filepath="$PROJECT_DIR$/.idea/micro-archi.iml" />
+    </modules>
+  </component>
+</project>
